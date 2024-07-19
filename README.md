@@ -331,4 +331,4 @@ end
 4. Madry, Aleksander, et al. "Towards Deep Learning Models Resistant to Adversarial Attacks." Preprint, submitted September 4, 2019. [arXiv:1706.06083](https://arxiv.org/abs/1706.06083).
 5. Wong, Eric, et al. "Fast Is Better than Free: Revisiting Adversarial Training." Preprint, submitted January 12, 2020. [arXiv:2001.03994](https://arxiv.org/abs/2001.03994).
 
-This project is developed and maintained by [Your Name](https://github.com/your_username). For any questions or contributions, feel free to open an issue or submit a pull request.
+This project is developed and maintained by [Rajarshi Nandi](https://github.com/rajo69). For any questions or contributions, feel free to open an issue or submit a pull request.
